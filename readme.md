@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on **open source**
 
 - 📫 How to reach me **islam.said.dev@gmail.com**
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
