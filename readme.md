@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm islam said</h1>
 <h3 align="center">a diligent software engineer</h3>
 
-- 🔭 I’m currently working on **Hr systems**
+- 🔭 I’m currently working on **large scale projects*
 
 - 🌱 I’m currently learning **Deep Dive Databases**
 
